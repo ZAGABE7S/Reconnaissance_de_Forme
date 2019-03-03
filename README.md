@@ -1,6 +1,6 @@
 # Reconnaissance_de_Forme
 
-# Nous passerons maintenant à l'étape de manipulation de notre programme de detection et extraction de texte dans un document numérique(Image)
+Nous passerons maintenant à l'étape de manipulation de notre programme de detection et extraction de texte dans un document numérique(Image)
 
 # Les prérequis pour utiliser le programme.
 1. Il faut vous rassurer que votre Pc contient la version python (3.7 ou antérieure)
