@@ -13,5 +13,5 @@ Tesseract est un moteur de reconnaissance optique de caractères pour différent
 # Etapes à Suivre:
 
 1. On se positionne sur le dossier de notre application dans le système Linux/Ubuntu
-2. On lance le terminal sur le dossier courrant de l'application en indiquant le nom du fichier .py suivi de python.
+2. On lance le terminal sur le dossier courrant de l'application en saisissant: python le nom du fichier .py suivi du dossier des images. exemple : python G5_ReconnaissanceForme ScanFolder/
 3.
